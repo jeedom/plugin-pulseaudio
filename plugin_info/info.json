@@ -34,5 +34,7 @@ dans la salle avec l'ampli!"
 "category" : "multimedia",
 "hasDependency" : true,
 "hasOwnDeamon" : false,
-"maxDependancyInstallTime" : 45
+       "maxDependancyInstallTime" : 45,
+        "changelog" : "https://jeedom.github.io/plugin-pulseaudio/#language#/changelog",
+        "documentation" : "https://jeedom.github.io/plugin-pulseaudio/#language#/"
 }
