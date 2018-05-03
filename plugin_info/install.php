@@ -17,18 +17,55 @@
  */
 
 require_once dirname(__FILE__) . '/../../../core/php/core.inc.php';
-
-function template_install() {
-    
+function pulseaudio_install() {
+/*
+    $cron = cron::byClassAndFunction('pulseaudio', 'pull');
+    if (!is_object($cron)) {
+        $cron = new cron();
+        $cron->setClass('pulseaudio');
+        $cron->setFunction('pull');
+        $cron->setEnable(1);
+        $cron->setDeamon(0);*/
+      //  $cron->setSchedule('*/5 * * * *');
+      /*  $cron->save();
+    }
+    */
 }
 
-function template_update() {
-    
+function pulseaudio_update() {
+  exec('../3rdparty/reset.sh');
+  /*  $cron = cron::byClassAndFunction('pulseaudio', 'pull');
+    if (!is_object($cron)) {
+        $cron = new cron();
+        $cron->setClass('pulseaudio');
+        $cron->setFunction('pull');
+        $cron->setEnable(1);
+        $cron->setDeamon(0); */
+      //  $cron->setSchedule('*/5 * * * *');
+      /*  $cron->save();
+    }
+    $cron->stop(); */
 }
 
-
-function template_remove() {
-    
+function pulseaudio_remove() {
+  exec('../3rdparty/reset.sh');
+  exec('../3rdparty/remove.sh');
+  log::remove('pulseaudio_update');
+  log::remove('pulseaudio_scanbluetooth');
+  log::remove('pulseaudio_status');
+  log::remove('pulseaudio_delete');
+  log::remove('pulseaudio_log');
+  log::remove('pulseaudio_create');
+  log::remove('pulseaudio_delete');
+  log::remove('pulseaudio_disable');
+  log::remove('pulseaudio_connect');
+  log::remove('pulseaudio_disconnect');
+  log::remove('pulseaudio_soundtest');
+  log::remove('pulseaudio_dep');
+  /*  $cron = cron::byClassAndFunction('pulseaudio', 'pull');
+    if (is_object($cron)) {
+        $cron->remove();
+    }
+    */
 }
-
 ?>
