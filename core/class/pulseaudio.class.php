@@ -89,7 +89,7 @@ class pulseaudio extends eqLogic {
 	}
 	public static function soundtestpulseaudio() {
 		log::remove('pulseaudio_soundtest');
-		$cmd = 'mplayer -ao pulse ' .dirname(__FILE__) . '/../../3rdparty/Esther_Garcia_-_A_Beautiful_Day.mp3';
+		$cmd = 'mplayer -ao pulse ' .dirname(__FILE__) . '/../../3rdparty/testPulseAudio.mp3';
 		$cmd .= ' >> ' . log::getPathToLog('pulseaudio_soundtest') . ' 2>&1 & echo $! > ' .dirname(__FILE__) . '/../../pulseaudio_soundtest.pid';
 		exec($cmd);
 	}
