@@ -29,7 +29,7 @@ de Jeedom pour compléter avec un ampli. Ce mode simultané arrivera
 prochainement avec la possibilité de mettre une latence, évitant le
 décalage entre les sorties son HDMI/Jack/Bluetooth, parfait pour le
 mode soirée à la foi sur la terrasse avec les enceintes Bluetooth et
-dans la salle avec l'ampli!"
+dans la salle avec l'ampli!",
 "require" : "2.2.5",
 "category" : "multimedia",
 "hasDependency" : true,
