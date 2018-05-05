@@ -3,38 +3,11 @@
 "name" : "Pulseaudio",
 "licence" : "AGPL",
 "author" : "Jeedom Legacy",
-"description" : "Auteur du plugin : Slobberbone.<br>
-<br>
-ATTENTION, il ne s’agit pas d’un plugin Officiel Jeedom mais d’un
-plugin développé par une tierce personne et dont l’évolution a été
-abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce
-plugin sans obligation de résultat.<br>
-<br>
-Ce plugin permet la gestion du service PulseAudio. Ce service gère tout
-ce qui concerne les entrées sorties sons et micro, que les sorties
-soient filaires, via bluetooth ou encore sur le réseau.<br>
-<br>
-Ce plugin rend visible le service PulseAudio sur votre réseau interne,
-il vous est alors possible de le contrôler depuis un PC sous GNU/Linux
-et de faire en sorte que la musique lue sur votre PC soit envoyée sur
-la sortie son de Jeedom.Ce plugin permet également l'ajout des
-enceintes Bluetooth au service PulseAudio de Jeedom et le propose comme
-une sortie standard.<br>
-<br>
-Ainsi, via Jeedom et ce plugin PulseAudio vous pouvez exécuter Deezer
-sur votre PC sous GNU/Linux (ou Windows avec le client PulseAudio
-compatible) et faire en sorte que le son soit envoyées aux enceintes
-bluetooth raccordées à Jeedom ainsi que sur la sortie son (HDMI/Jack)
-de Jeedom pour compléter avec un ampli. Ce mode simultané arrivera
-prochainement avec la possibilité de mettre une latence, évitant le
-décalage entre les sorties son HDMI/Jack/Bluetooth, parfait pour le
-mode soirée à la foi sur la terrasse avec les enceintes Bluetooth et
-dans la salle avec l'ampli!",
-"require" : "2.2.5",
+"require" : "3.1.0",
 "category" : "multimedia",
 "hasDependency" : true,
 "hasOwnDeamon" : false,
-       "maxDependancyInstallTime" : 45,
-        "changelog" : "https://jeedom.github.io/plugin-pulseaudio/#language#/changelog",
-        "documentation" : "https://jeedom.github.io/plugin-pulseaudio/#language#/"
+"maxDependancyInstallTime" : 45,
+"changelog" : "https://jeedom.github.io/plugin-pulseaudio/#language#/changelog",
+"documentation" : "https://jeedom.github.io/plugin-pulseaudio/#language#/"
 }
