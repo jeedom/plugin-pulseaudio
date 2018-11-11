@@ -184,7 +184,7 @@ Allez dans la configuration du plugin Pulseaudio, dans la section
 **Le volume de votre enceinte peut être réglé. Vous pouvez aussi cocher
 les sorties audios à désactiver**
 
-Troubleshoting 
+Problembehebung
 ==============
 
 **Je n’ai pas de son !!!.**
