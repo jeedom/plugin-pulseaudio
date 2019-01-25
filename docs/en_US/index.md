@@ -27,7 +27,7 @@ une latence, évitant le décalage entre les sorties son
 HDMI/Jack/Bluetooth, parfait pour le mode soirée à la foi sur la
 terrasse avec les enceintes Bluetooth et dans la salle avec l’ampli !
 
-Configuration 
+Configuration
 =============
 
 Installation du plugin 
@@ -56,7 +56,7 @@ vérifier s’il y a des éventuelles erreurs
 
 ![image](index_html_1857092a331f01.png)
 
-Configuration du plugin 
+Plugin configuration
 -----------------------
 
 De retour dans la configuration du plugin Pulseaudio, dans la section
