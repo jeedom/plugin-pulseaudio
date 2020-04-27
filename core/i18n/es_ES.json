@@ -1,5 +1,107 @@
 {
-    "plugins\/pulseaudio\/plugin_info\/info.xml": {
-        "Plugin PulseAudio": "Plugin PulseAudio"
+    "plugins\/pulseaudio\/plugin_info\/configuration.php": {
+        "Configuration :": "",
+        "Accès à la configuration": "",
+        "Réparer :": "",
+        "Forcer l'arrêt de tous les services pulseaudio": "",
+        "Port clef bluetooth": "Puerto de llave Bluetooth",
+        "Aucun": "Ninguna"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/soundtest.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Arrêter le test": "",
+        "Pause": "Pausa",
+        "Rechercher": "Buscar"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/update.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Pause": "Pausa",
+        "Rechercher": "Buscar"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/status.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Pause": "Pausa",
+        "Rechercher": "Buscar"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/pairbluetooth.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Étape 1": "Etapa 1",
+        "Étape 2": "Etapa 2",
+        "Étape 3": "Etapa 3",
+        "Étape 4": "Paso 4",
+        "Étape 5": "Paso 5",
+        "Activer le mode découverte de l'enceinte Bluetooth": "",
+        "Exemple JBL Flip 3": "",
+        "Suivant": "Próximo",
+        "Scanner les périphériques Bluetooth": "",
+        "Pause": "Pausa",
+        "Rechercher": "Buscar",
+        "Scan en cours": "",
+        "Adresse MAC": "Dirección MAC",
+        "Appairer l'enceinte Bluetooth": "",
+        "Appairage en cours": "",
+        "Créer le service associé à cette enceinte Bluetooth": "",
+        "Nom du service": "",
+        "Finaliser la création de votre enceinte Bluetooth": "",
+        "Vous pouvez clore cette popup puis activer et enregistrer cette nouvelle enceinte Bluetooth.": "",
+        "JBL Flip 3": ""
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/log.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Pause": "Pausa",
+        "Rechercher": "Buscar"
+    },
+    "plugins\/pulseaudio\/desktop\/php\/pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Ajouter une enceinte Bluetooth": "",
+        "Rechercher": "Buscar",
+        "Gestion": "Gestión",
+        "Configuration": "Configuración",
+        "Mes enceintes Bluetooth": "",
+        "Sauvegarder": "Guardar",
+        "Supprimer": "Borrar",
+        "Configuration avancée": "Configuración avanzada",
+        "Equipement": "Dispositivos",
+        "Commandes": "Comandos",
+        "Général": "Principal",
+        "Nom de l'enceinte Bluetooth": "",
+        "Objet parent": "Objeto padre",
+        "Aucun": "Ninguna",
+        "Port clef bluetooth": "Puerto de llave Bluetooth",
+        "Catégorie": "Categoría",
+        "Commentaire": "Comentario",
+        "Activer": "Activar",
+        "Visible": "Visible",
+        "Paramètres": "Configuraciones",
+        "Assistant": "Asistente",
+        "Appairer l'enceinte Bluetooth": "",
+        "Adresse MAC": "Dirección MAC",
+        "Nom du Service": "",
+        "Test": "Prueba",
+        "Status": "Estado",
+        "Logs": "Registros",
+        "Tester": "Probar",
+        "Nom": "Nombre",
+        "Sous-Type": "Sub-tipo",
+        "Service Status": "",
+        "Bluetooth Scan": "",
+        "Bluetooth Appairage": ""
+    },
+    "plugins\/pulseaudio\/desktop\/js\/pulseaudio.js": {
+        "Nom": "Nombre",
+        "Afficher": "Mostrar",
+        "Historiser": "Guardar historial",
+        "Tester": "Probar"
+    },
+    "plugins\/pulseaudio\/core\/ajax\/pulseaudio.ajax.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Aucune methode correspondante à : ": "Ningún método correspondiente a:"
+    },
+    "plugins\/pulseaudio\/core\/class\/pulseaudio.class.php": {
+        "Le champs Adresse ne peut être vide": "",
+        "L\\'adresse MAC doit être de la forme XX:XX:XX:XX:XX:XX": "",
+        "Le champs Nom ne peut être vide": "El campo de nombre no puede estar vacío.",
+        "Le champs Nom ne peut contenir de caractères spéciaux": "",
+        "Le champs Nom ne peut contenir d\\'espaces": ""
     }
 }

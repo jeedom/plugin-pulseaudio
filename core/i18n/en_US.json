@@ -1,5 +1,107 @@
 {
-    "plugins\/pulseaudio\/plugin_info\/info.xml": {
-        "Plugin PulseAudio": "Plugin PulseAudio"
+    "plugins\/pulseaudio\/plugin_info\/configuration.php": {
+        "Configuration :": "",
+        "Accès à la configuration": "",
+        "Réparer :": "",
+        "Forcer l'arrêt de tous les services pulseaudio": "",
+        "Port clef bluetooth": "Bluetooth keychain",
+        "Aucun": "None"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/soundtest.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Unauthorized access",
+        "Arrêter le test": "",
+        "Pause": "Pause",
+        "Rechercher": "Search"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/update.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Unauthorized access",
+        "Pause": "Pause",
+        "Rechercher": "Search"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/status.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Unauthorized access",
+        "Pause": "Pause",
+        "Rechercher": "Search"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/pairbluetooth.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Unauthorized access",
+        "Étape 1": "Step 1",
+        "Étape 2": "Step 2",
+        "Étape 3": "Step 3",
+        "Étape 4": "Step 4",
+        "Étape 5": "Step 5",
+        "Activer le mode découverte de l'enceinte Bluetooth": "",
+        "Exemple JBL Flip 3": "",
+        "Suivant": "Next",
+        "Scanner les périphériques Bluetooth": "",
+        "Pause": "Pause",
+        "Rechercher": "Search",
+        "Scan en cours": "",
+        "Adresse MAC": "MAC address",
+        "Appairer l'enceinte Bluetooth": "",
+        "Appairage en cours": "",
+        "Créer le service associé à cette enceinte Bluetooth": "",
+        "Nom du service": "",
+        "Finaliser la création de votre enceinte Bluetooth": "",
+        "Vous pouvez clore cette popup puis activer et enregistrer cette nouvelle enceinte Bluetooth.": "",
+        "JBL Flip 3": ""
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/log.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Unauthorized access",
+        "Pause": "Pause",
+        "Rechercher": "Search"
+    },
+    "plugins\/pulseaudio\/desktop\/php\/pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Unauthorized access",
+        "Ajouter une enceinte Bluetooth": "",
+        "Rechercher": "Search",
+        "Gestion": "Management",
+        "Configuration": "Setup",
+        "Mes enceintes Bluetooth": "",
+        "Sauvegarder": "Save",
+        "Supprimer": "Delete",
+        "Configuration avancée": "Advanced configuration",
+        "Equipement": "Equipment",
+        "Commandes": "Commands",
+        "Général": "Main",
+        "Nom de l'enceinte Bluetooth": "",
+        "Objet parent": "Parent object",
+        "Aucun": "None",
+        "Port clef bluetooth": "Bluetooth keychain",
+        "Catégorie": "Category",
+        "Commentaire": "Comment",
+        "Activer": "Activate",
+        "Visible": "Visible",
+        "Paramètres": "Settings",
+        "Assistant": "Assistant",
+        "Appairer l'enceinte Bluetooth": "",
+        "Adresse MAC": "MAC address",
+        "Nom du Service": "",
+        "Test": "Test",
+        "Status": "Status",
+        "Logs": "Logs",
+        "Tester": "Test",
+        "Nom": "Name",
+        "Sous-Type": "Sub-type",
+        "Service Status": "",
+        "Bluetooth Scan": "",
+        "Bluetooth Appairage": ""
+    },
+    "plugins\/pulseaudio\/desktop\/js\/pulseaudio.js": {
+        "Nom": "Name",
+        "Afficher": "Show",
+        "Historiser": "Historize",
+        "Tester": "Test"
+    },
+    "plugins\/pulseaudio\/core\/ajax\/pulseaudio.ajax.php": {
+        "401 - Accès non autorisé": "401 - Unauthorized access",
+        "Aucune methode correspondante à : ": "No method corresponding to:"
+    },
+    "plugins\/pulseaudio\/core\/class\/pulseaudio.class.php": {
+        "Le champs Adresse ne peut être vide": "",
+        "L\\'adresse MAC doit être de la forme XX:XX:XX:XX:XX:XX": "",
+        "Le champs Nom ne peut être vide": "The name field cannot be empty",
+        "Le champs Nom ne peut contenir de caractères spéciaux": "",
+        "Le champs Nom ne peut contenir d\\'espaces": ""
     }
 }

@@ -1,5 +1,107 @@
 {
-    "plugins\/pulseaudio\/plugin_info\/info.xml": {
-        "Plugin PulseAudio": "Plugin PulseAudio"
+    "plugins\/pulseaudio\/plugin_info\/configuration.php": {
+        "Configuration :": "",
+        "Accès à la configuration": "",
+        "Réparer :": "",
+        "Forcer l'arrêt de tous les services pulseaudio": "",
+        "Port clef bluetooth": "Bluetooth anahtarın port u",
+        "Aucun": "Hiçbir"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/soundtest.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Yetkisiz erişim",
+        "Arrêter le test": "",
+        "Pause": "Durdur",
+        "Rechercher": "Arayın"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/update.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Yetkisiz erişim",
+        "Pause": "Durdur",
+        "Rechercher": "Arayın"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/status.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Yetkisiz erişim",
+        "Pause": "Durdur",
+        "Rechercher": "Arayın"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/pairbluetooth.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Yetkisiz erişim",
+        "Étape 1": "",
+        "Étape 2": "",
+        "Étape 3": "",
+        "Étape 4": "",
+        "Étape 5": "",
+        "Activer le mode découverte de l'enceinte Bluetooth": "",
+        "Exemple JBL Flip 3": "",
+        "Suivant": "",
+        "Scanner les périphériques Bluetooth": "",
+        "Pause": "Durdur",
+        "Rechercher": "Arayın",
+        "Scan en cours": "",
+        "Adresse MAC": "Mac adresi",
+        "Appairer l'enceinte Bluetooth": "",
+        "Appairage en cours": "",
+        "Créer le service associé à cette enceinte Bluetooth": "",
+        "Nom du service": "",
+        "Finaliser la création de votre enceinte Bluetooth": "",
+        "Vous pouvez clore cette popup puis activer et enregistrer cette nouvelle enceinte Bluetooth.": "",
+        "JBL Flip 3": ""
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/log.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Yetkisiz erişim",
+        "Pause": "Durdur",
+        "Rechercher": "Arayın"
+    },
+    "plugins\/pulseaudio\/desktop\/php\/pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Yetkisiz erişim",
+        "Ajouter une enceinte Bluetooth": "",
+        "Rechercher": "Arayın",
+        "Gestion": "Idare",
+        "Configuration": "Ayar",
+        "Mes enceintes Bluetooth": "",
+        "Sauvegarder": "Kaydet",
+        "Supprimer": "Sil",
+        "Configuration avancée": "Gelişmiş ayarlar",
+        "Equipement": "Cihaz",
+        "Commandes": "Komutalar",
+        "Général": "Genel",
+        "Nom de l'enceinte Bluetooth": "",
+        "Objet parent": "Üst nesne",
+        "Aucun": "Hiçbir",
+        "Port clef bluetooth": "Bluetooth anahtarın port u",
+        "Catégorie": "Kategori",
+        "Commentaire": "COMMENTAIRE",
+        "Activer": "Etkinleştir",
+        "Visible": "Görülebilir",
+        "Paramètres": "Ayarlar ( Séçenekler )",
+        "Assistant": "",
+        "Appairer l'enceinte Bluetooth": "",
+        "Adresse MAC": "Mac adresi",
+        "Nom du Service": "",
+        "Test": "Test, denetleme",
+        "Status": "Durum",
+        "Logs": "Loglar",
+        "Tester": "Test et",
+        "Nom": "İsim",
+        "Sous-Type": "Alt türü(tipi)",
+        "Service Status": "",
+        "Bluetooth Scan": "",
+        "Bluetooth Appairage": ""
+    },
+    "plugins\/pulseaudio\/desktop\/js\/pulseaudio.js": {
+        "Nom": "İsim",
+        "Afficher": "Göster",
+        "Historiser": "Tarihe göre sırala",
+        "Tester": "Test et"
+    },
+    "plugins\/pulseaudio\/core\/ajax\/pulseaudio.ajax.php": {
+        "401 - Accès non autorisé": "401 - Yetkisiz erişim",
+        "Aucune methode correspondante à : ": "Aşağıdakilere karşılık gelen bir yöntem yok:"
+    },
+    "plugins\/pulseaudio\/core\/class\/pulseaudio.class.php": {
+        "Le champs Adresse ne peut être vide": "",
+        "L\\'adresse MAC doit être de la forme XX:XX:XX:XX:XX:XX": "",
+        "Le champs Nom ne peut être vide": "",
+        "Le champs Nom ne peut contenir de caractères spéciaux": "",
+        "Le champs Nom ne peut contenir d\\'espaces": ""
     }
 }

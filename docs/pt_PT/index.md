@@ -27,13 +27,13 @@
 
  !
 
-Konfiguration 
+Configuração 
 =============
 
  
 ----------------------
 
-Nach dem Herunterladen des Plugins müssen Sie lediglich das aktivieren
+
 :
 
 ![image](index_html_6e0dcff06783d142.png)
@@ -56,7 +56,7 @@ Allez dans les logs puis vérifiez le log «pulseaudio\_dep» afin de
 
 ![image](index_html_1857092a331f01.png)
 
-Plugin Konfiguration 
+Configuração do plugin 
 -----------------------
 
 
@@ -66,7 +66,7 @@ Plugin Konfiguration
 
 .
 
-Gerätekonfiguration 
+ 
 =============================
 
 
@@ -88,17 +88,17 @@ Cliquez sur «Ajouter» pour ajouter une :
 
 -   ****: 
 
--   **Übergeordnetes Objekt**: gibt das übergeordnete Objekt an, zu dem es gehört
-    Ausrüstung
+-   **Objeto pai**: 
+    
 
 -   ****: 
     
 
--   **Kategorie**: 
+-   **Categoria**: 
 
--   **Kommentar**: 
+-   **COMMENTAIRE**: 
 
--   **Aktivieren** : macht Ihre Ausrüstung aktiv
+-   **Ativar** : 
 
 :
 
@@ -126,7 +126,7 @@ Une fois terminé, cliquez sur «suivant».
 
 .
 
-**Achtung**: 
+**Atenção**: 
 
 
 Cliquez sur «suivant» une fois terminé:
@@ -146,7 +146,7 @@ Cliquez sur «suivant» une fois terminé:
 
 ![image](index_html_b314d3c57bca2c32.png)
 
-Faq 
+ 
 ===
 
 ** ?.**

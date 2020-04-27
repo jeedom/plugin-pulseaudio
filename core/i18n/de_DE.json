@@ -1,5 +1,107 @@
 {
-    "plugins\/pulseaudio\/plugin_info\/info.xml": {
-        "Plugin PulseAudio": "Plugin PulseAudio"
+    "plugins\/pulseaudio\/plugin_info\/configuration.php": {
+        "Configuration :": "",
+        "Accès à la configuration": "",
+        "Réparer :": "",
+        "Forcer l'arrêt de tous les services pulseaudio": "",
+        "Port clef bluetooth": "Bluetooth Port Schlüssel",
+        "Aucun": "Ohne"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/soundtest.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
+        "Arrêter le test": "",
+        "Pause": "Pause",
+        "Rechercher": "Suchen nach"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/update.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
+        "Pause": "Pause",
+        "Rechercher": "Suchen nach"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/status.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
+        "Pause": "Pause",
+        "Rechercher": "Suchen nach"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/pairbluetooth.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
+        "Étape 1": "Stufe 1",
+        "Étape 2": "Stufe 2",
+        "Étape 3": "Stufe 3",
+        "Étape 4": "Schritt 4",
+        "Étape 5": "Schritt 5",
+        "Activer le mode découverte de l'enceinte Bluetooth": "",
+        "Exemple JBL Flip 3": "",
+        "Suivant": "Folgende",
+        "Scanner les périphériques Bluetooth": "",
+        "Pause": "Pause",
+        "Rechercher": "Suchen nach",
+        "Scan en cours": "",
+        "Adresse MAC": "MAC-Adresse",
+        "Appairer l'enceinte Bluetooth": "",
+        "Appairage en cours": "",
+        "Créer le service associé à cette enceinte Bluetooth": "",
+        "Nom du service": "",
+        "Finaliser la création de votre enceinte Bluetooth": "",
+        "Vous pouvez clore cette popup puis activer et enregistrer cette nouvelle enceinte Bluetooth.": "",
+        "JBL Flip 3": ""
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/log.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
+        "Pause": "Pause",
+        "Rechercher": "Suchen nach"
+    },
+    "plugins\/pulseaudio\/desktop\/php\/pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
+        "Ajouter une enceinte Bluetooth": "",
+        "Rechercher": "Suchen nach",
+        "Gestion": "Verwaltung",
+        "Configuration": "Konfiguration",
+        "Mes enceintes Bluetooth": "",
+        "Sauvegarder": "Speichern",
+        "Supprimer": "Löschen",
+        "Configuration avancée": "Erweiterte Konfiguration",
+        "Equipement": "Gerät",
+        "Commandes": "Befehle",
+        "Général": "Allgemein",
+        "Nom de l'enceinte Bluetooth": "",
+        "Objet parent": "Übergeordnetes Objekt",
+        "Aucun": "Ohne",
+        "Port clef bluetooth": "Bluetooth Port Schlüssel",
+        "Catégorie": "Kategorie",
+        "Commentaire": "Kommentar",
+        "Activer": "Aktivieren",
+        "Visible": "Sichtbar",
+        "Paramètres": "Einstellungen",
+        "Assistant": "Assistent",
+        "Appairer l'enceinte Bluetooth": "",
+        "Adresse MAC": "MAC-Adresse",
+        "Nom du Service": "",
+        "Test": "Test",
+        "Status": "STATUS",
+        "Logs": "Protokolle",
+        "Tester": "Test",
+        "Nom": "Name",
+        "Sous-Type": "Untertyp",
+        "Service Status": "",
+        "Bluetooth Scan": "",
+        "Bluetooth Appairage": ""
+    },
+    "plugins\/pulseaudio\/desktop\/js\/pulseaudio.js": {
+        "Nom": "Name",
+        "Afficher": "Anzeige",
+        "Historiser": "Chronik",
+        "Tester": "Test"
+    },
+    "plugins\/pulseaudio\/core\/ajax\/pulseaudio.ajax.php": {
+        "401 - Accès non autorisé": "401 - Nicht autorisierter Zugriff",
+        "Aucune methode correspondante à : ": "Keine Methode entsprechend:"
+    },
+    "plugins\/pulseaudio\/core\/class\/pulseaudio.class.php": {
+        "Le champs Adresse ne peut être vide": "",
+        "L\\'adresse MAC doit être de la forme XX:XX:XX:XX:XX:XX": "",
+        "Le champs Nom ne peut être vide": "Das Namensfeld darf nicht leer sein",
+        "Le champs Nom ne peut contenir de caractères spéciaux": "",
+        "Le champs Nom ne peut contenir d\\'espaces": ""
     }
 }
