@@ -38,11 +38,11 @@ plugin :
 
 ![image](index_html_6e0dcff06783d142.png)
 
-Iniciar la instalación de dependencias.:
+Iniciar la instalación de dependencias:
 
 ![image](index_html_ee255917648caafe.png)
 
-La instalación puede llevar tiempo ...
+La instalación puede llevar tiempo
 
 ![image](index_html_8f5ac294e319722b.png)
 
@@ -82,7 +82,7 @@ Agregue un nombre a su equipo:
 
 ![image](index_html_5a766711e205ad3.png)
 
-Rellene los diferentes campos.:
+Rellene los diferentes campos:
 
 ![image](index_html_59ce8e4aed01a0ef.png)
 
@@ -96,11 +96,11 @@ Rellene los diferentes campos.:
 
 -   **Categoría** : categorías de equipos
 
--   **Commentaire** : permite agregar un comentario
+-   **Comentario** : permite agregar un comentario
 
--   **Activer** : activa su equipo
+-   **Activar** : activa su equipo
 
-Haga clic en el asistente de emparejamiento.:
+Haga clic en el asistente de emparejamiento:
 
 ![image](index_html_b11a463a181fee2c.png)
 
@@ -126,7 +126,7 @@ Une fois terminé, cliquez sur « suivant » .
 
 Ingrese un nombre de servicio.
 
-**ATTENTION** : no debe haber espacios ni caracteres especiales en este nombre
+**Atención** : no debe haber espacios ni caracteres especiales en este nombre
 de servicio
 
 Cliquez sur « suivant » une fois terminé :

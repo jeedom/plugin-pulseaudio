@@ -42,7 +42,7 @@ Iniciar a instalação de dependências:
 
 ![image](index_html_ee255917648caafe.png)
 
-A instalação pode levar tempo ...
+A instalação pode levar tempo
 
 ![image](index_html_8f5ac294e319722b.png)
 
@@ -96,9 +96,9 @@ Preencha os diferentes campos:
 
 -   **Categoria** : categorias de equipamentos
 
--   **Commentaire** : permite adicionar um comentário
+-   **COMMENTAIRE** : permite adicionar um comentário
 
--   **Activer** : torna seu equipamento ativo
+-   **Ativar** : torna seu equipamento ativo
 
 Clique no assistente de emparelhamento:
 
@@ -126,7 +126,7 @@ Une fois terminé, cliquez sur « suivant » .
 
 Digite um nome de serviço.
 
-**ATTENTION** : não deve haver espaços ou caracteres especiais nesse nome
+**Atenção** : não deve haver espaços ou caracteres especiais nesse nome
 de serviço
 
 Cliquez sur « suivant » une fois terminé :

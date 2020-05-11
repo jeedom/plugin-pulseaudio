@@ -42,7 +42,7 @@ Starten Sie die Installation von Abhängigkeiten:
 
 ![image](index_html_ee255917648caafe.png)
 
-Die Installation kann einige Zeit dauern ...
+Die Installation kann einige Zeit dauern
 
 ![image](index_html_8f5ac294e319722b.png)
 
@@ -96,9 +96,9 @@ Füllen Sie die verschiedenen Felder aus:
 
 -   **Kategorie** : Ausrüstungskategorien
 
--   **Commentaire** : ermöglicht das Hinzufügen eines Kommentars
+-   **Kommentar** : ermöglicht das Hinzufügen eines Kommentars
 
--   **Activer** : macht Ihre Ausrüstung aktiv
+-   **Aktivieren** : macht Ihre Ausrüstung aktiv
 
 Klicken Sie auf den Pairing-Assistenten:
 
@@ -126,7 +126,7 @@ Une fois terminé, cliquez sur « suivant » .
 
 Geben Sie einen Dienstnamen ein.
 
-**ATTENTION** : Dieser Name darf keine Leerzeichen oder Sonderzeichen enthalten
+**Achtung** : Dieser Name darf keine Leerzeichen oder Sonderzeichen enthalten
 des Dienstes
 
 Cliquez sur « suivant » une fois terminé :

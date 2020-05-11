@@ -42,7 +42,7 @@ Start the installation of dependencies:
 
 ![image](index_html_ee255917648caafe.png)
 
-Installation may take time ...
+Installation may take time
 
 ![image](index_html_8f5ac294e319722b.png)
 
@@ -96,9 +96,9 @@ Fill in the different fields:
 
 -   **Category** : equipment categories
 
--   **Commentaire** : allows to add a comment
+-   **Comment** : allows to add a comment
 
--   **Activer** : makes your equipment active
+-   **Activate** : makes your equipment active
 
 Click on the pairing assistant:
 
@@ -126,7 +126,7 @@ Une fois terminé, cliquez sur « suivant » .
 
 Enter a service name.
 
-**ATTENTION** : there should be no spaces or special characters in this name
+**Be careful** : there should be no spaces or special characters in this name
 on duty
 
 Cliquez sur « suivant » une fois terminé :

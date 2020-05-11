@@ -1,7 +1,7 @@
 {
     "plugins\/pulseaudio\/plugin_info\/configuration.php": {
         "Configuration :": "Configuración:",
-        "Accès à la configuration": "Acceso a la configuración.",
+        "Accès à la configuration": "Acceso a la configuración",
         "Réparer :": "Reparar :",
         "Forcer l'arrêt de tous les services pulseaudio": "Forzar la parada de todos los servicios de pulseaudio",
         "Port clef bluetooth": "Puerto de llave Bluetooth",
@@ -41,9 +41,9 @@
         "Appairer l'enceinte Bluetooth": "Emparejar el altavoz Bluetooth",
         "Appairage en cours": "Emparejamiento en progreso",
         "Créer le service associé à cette enceinte Bluetooth": "Crea el servicio asociado con este altavoz Bluetooth",
-        "Nom du service": "Nombre del servicio.",
+        "Nom du service": "Nombre del servicio",
         "Finaliser la création de votre enceinte Bluetooth": "Finalice la creación de su altavoz Bluetooth",
-        "Vous pouvez clore cette popup puis activer et enregistrer cette nouvelle enceinte Bluetooth.": "Puede cerrar esta ventana emergente y luego activar y registrar este nuevo altavoz Bluetooth.",
+        "Vous pouvez clore cette popup puis activer et enregistrer cette nouvelle enceinte Bluetooth.": "Puede cerrar esta ventana emergente y luego activar y registrar este nuevo altavoz Bluetooth",
         "JBL Flip 3": "JBL Flip 3"
     },
     "plugins\/pulseaudio\/desktop\/modal\/log.pulseaudio.php": {
@@ -100,7 +100,7 @@
     "plugins\/pulseaudio\/core\/class\/pulseaudio.class.php": {
         "Le champs Adresse ne peut être vide": "El campo de dirección no puede estar vacío",
         "L\\'adresse MAC doit être de la forme XX:XX:XX:XX:XX:XX": "La dirección MAC debe tener la forma XX: XX: XX: XX: XX: XX",
-        "Le champs Nom ne peut être vide": "El campo de nombre no puede estar vacío.",
+        "Le champs Nom ne peut être vide": "El campo de nombre no puede estar vacío",
         "Le champs Nom ne peut contenir de caractères spéciaux": "El campo de nombre no puede contener caracteres especiales",
         "Le champs Nom ne peut contenir d\\'espaces": "El campo de nombre no puede contener espacios"
     }

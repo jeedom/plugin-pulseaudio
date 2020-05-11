@@ -43,7 +43,7 @@
         "Créer le service associé à cette enceinte Bluetooth": "Create the service associated with this Bluetooth speaker",
         "Nom du service": "Name of the service",
         "Finaliser la création de votre enceinte Bluetooth": "Finalize the creation of your Bluetooth speaker",
-        "Vous pouvez clore cette popup puis activer et enregistrer cette nouvelle enceinte Bluetooth.": "You can close this popup then activate and register this new Bluetooth speaker.",
+        "Vous pouvez clore cette popup puis activer et enregistrer cette nouvelle enceinte Bluetooth.": "You can close this popup then activate and register this new Bluetooth speaker",
         "JBL Flip 3": "JBL Flip 3"
     },
     "plugins\/pulseaudio\/desktop\/modal\/log.pulseaudio.php": {

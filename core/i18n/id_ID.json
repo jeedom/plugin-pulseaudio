@@ -95,7 +95,7 @@
     },
     "plugins\/pulseaudio\/core\/ajax\/pulseaudio.ajax.php": {
         "401 - Accès non autorisé": "401 - Akses tidak sah",
-        "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
+        "Aucune methode correspondante à : ": "Aucune methode correspondante à :"
     },
     "plugins\/pulseaudio\/core\/class\/pulseaudio.class.php": {
         "Le champs Adresse ne peut être vide": "",

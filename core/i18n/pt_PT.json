@@ -43,7 +43,7 @@
         "Créer le service associé à cette enceinte Bluetooth": "Crie o serviço associado a este alto-falante Bluetooth",
         "Nom du service": "Nome do serviço",
         "Finaliser la création de votre enceinte Bluetooth": "Finalize a criação do seu alto-falante Bluetooth",
-        "Vous pouvez clore cette popup puis activer et enregistrer cette nouvelle enceinte Bluetooth.": "Você pode fechar este pop-up, ativar e registrar este novo alto-falante Bluetooth.",
+        "Vous pouvez clore cette popup puis activer et enregistrer cette nouvelle enceinte Bluetooth.": "Você pode fechar este pop-up, ativar e registrar este novo alto-falante Bluetooth",
         "JBL Flip 3": "JBL Flip 3"
     },
     "plugins\/pulseaudio\/desktop\/modal\/log.pulseaudio.php": {
@@ -95,7 +95,7 @@
     },
     "plugins\/pulseaudio\/core\/ajax\/pulseaudio.ajax.php": {
         "401 - Accès non autorisé": "401 - Acesso não autorizado",
-        "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
+        "Aucune methode correspondante à : ": "Aucune methode correspondante à :"
     },
     "plugins\/pulseaudio\/core\/class\/pulseaudio.class.php": {
         "Le champs Adresse ne peut être vide": "O campo de endereço não pode estar vazio",
