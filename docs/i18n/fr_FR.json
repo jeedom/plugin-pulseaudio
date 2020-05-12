@@ -1,5 +1,7 @@
 {
-    "changelog.md": null,
+    "changelog.md": {
+        "Changelog Pulseaudio": "Changelog Pulseaudio"
+    },
     "index.md": {
         "Plugin permettant de connecter une enceinte Bluetooth à votre Jeedom. Le": "Plugin permettant de connecter une enceinte Bluetooth à votre Jeedom. Le",
         "plugin permet aussi de contrôler le volume de votre enceinte via le": "plugin permet aussi de contrôler le volume de votre enceinte via le",
