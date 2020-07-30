@@ -103,5 +103,8 @@
         "Le champs Nom ne peut être vide": "",
         "Le champs Nom ne peut contenir de caractères spéciaux": "",
         "Le champs Nom ne peut contenir d\\'espaces": ""
+    },
+    "info.json": {
+        "Auteur du plugin : Slobberbone.<br\/>ATTENTION, il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat.": ""
     }
 }
