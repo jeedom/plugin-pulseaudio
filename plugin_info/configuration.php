@@ -26,15 +26,9 @@ if (!isConnect()) {
 
 
 <form class="form-horizontal">
-  <div class="panel panel-info" style="height: 100%;">
-      <div class="panel-heading" role="tab">
-          <h4 class="panel-title">
-              Plugin PulseAudio
-          </h4>
-      </div>
       <div class="form-group">
-        <label class="col-sm-2 control-label">{{Configuration :}}</label>
-        <div class="col-lg-4">
+        <label class="col-sm-3 control-label">{{Configuration}}</label>
+        <div class="col-xs-11 col-sm-7">
           <a class="btn btn-info" href=/index.php?v=d&m=pulseaudio&p=pulseaudio> {{Accès à la configuration}}</a>
         </div>
         <!-- <label class="col-sm-2 control-label">{{Réparer :}}</label>
@@ -43,8 +37,8 @@ if (!isConnect()) {
   			</div> -->
       </div>
       <div class="form-group">
-        <label class="col-sm-2 control-label">{{Port clef bluetooth}}</label>
-        <div class="col-sm-2">
+        <label class="col-sm-3 control-label">{{Port clef bluetooth}}</label>
+        <div class="col-xs-11 col-sm-7">
           <select class="configKey form-control" data-l1key="port">
             <option value="none">{{Aucun}}</option>
             <?php
@@ -55,13 +49,5 @@ if (!isConnect()) {
           </select>
         </div>
       </div>
-  </div>
-  <div class="panel panel-info" style="height: 100%;">
-      <div class="panel-heading" role="tab">
-          <h4 class="panel-title">
-              Service PulseAudio via PaWebControl
-          </h4>
-      </div>
       <iframe frameborder="0" height="90%" width="100%" src="plugins/pulseaudio/PaWebControl/index.html"/>
-  </div>
 </form>
