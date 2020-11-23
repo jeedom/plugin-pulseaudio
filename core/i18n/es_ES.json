@@ -1,5 +1,110 @@
 {
-    "plugins\/pulseaudio\/plugin_info\/info.xml": {
-        "Plugin PulseAudio": "Plugin PulseAudio"
+    "plugins\/pulseaudio\/plugin_info\/configuration.php": {
+        "Configuration :": "Configuración:",
+        "Accès à la configuration": "Acceso a la configuración",
+        "Réparer :": "Reparar :",
+        "Forcer l'arrêt de tous les services pulseaudio": "Forzar la parada de todos los servicios de pulseaudio",
+        "Port clef bluetooth": "Puerto de llave Bluetooth",
+        "Aucun": "Ninguna"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/soundtest.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Arrêter le test": "Detener la prueba",
+        "Pause": "Pausa",
+        "Rechercher": "Buscar"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/update.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Pause": "Pausa",
+        "Rechercher": "Buscar"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/status.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Pause": "Pausa",
+        "Rechercher": "Buscar"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/pairbluetooth.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Étape 1": "Etapa 1",
+        "Étape 2": "Etapa 2",
+        "Étape 3": "Etapa 3",
+        "Étape 4": "Paso 4",
+        "Étape 5": "Paso 5",
+        "Activer le mode découverte de l'enceinte Bluetooth": "Activa el modo de descubrimiento del altavoz Bluetooth",
+        "Exemple JBL Flip 3": "JBL Flip 3 ejemplo",
+        "Suivant": "Próximo",
+        "Scanner les périphériques Bluetooth": "Escanear dispositivos Bluetooth",
+        "Pause": "Pausa",
+        "Rechercher": "Buscar",
+        "Scan en cours": "Escaneo en progreso",
+        "Adresse MAC": "Dirección MAC",
+        "Appairer l'enceinte Bluetooth": "Emparejar el altavoz Bluetooth",
+        "Appairage en cours": "Emparejamiento en progreso",
+        "Créer le service associé à cette enceinte Bluetooth": "Crea el servicio asociado con este altavoz Bluetooth",
+        "Nom du service": "Nombre del servicio",
+        "Finaliser la création de votre enceinte Bluetooth": "Finalice la creación de su altavoz Bluetooth",
+        "Vous pouvez clore cette popup puis activer et enregistrer cette nouvelle enceinte Bluetooth.": "Puede cerrar esta ventana emergente y luego activar y registrar este nuevo altavoz Bluetooth",
+        "JBL Flip 3": "JBL Flip 3"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/log.pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Pause": "Pausa",
+        "Rechercher": "Buscar"
+    },
+    "plugins\/pulseaudio\/desktop\/php\/pulseaudio.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Ajouter une enceinte Bluetooth": "Agregar un altavoz Bluetooth",
+        "Rechercher": "Buscar",
+        "Gestion": "Gestión",
+        "Configuration": "Configuración",
+        "Mes enceintes Bluetooth": "Mis parlantes Bluetooth",
+        "Sauvegarder": "Guardar",
+        "Supprimer": "Borrar",
+        "Configuration avancée": "Configuración avanzada",
+        "Equipement": "Dispositivos",
+        "Commandes": "Comandos",
+        "Général": "Principal",
+        "Nom de l'enceinte Bluetooth": "Nombre del altavoz Bluetooth",
+        "Objet parent": "Objeto padre",
+        "Aucun": "Ninguna",
+        "Port clef bluetooth": "Puerto de llave Bluetooth",
+        "Catégorie": "Categoría",
+        "Commentaire": "Comentario",
+        "Activer": "Activar",
+        "Visible": "Visible",
+        "Paramètres": "Configuraciones",
+        "Assistant": "Asistente",
+        "Appairer l'enceinte Bluetooth": "Emparejar el altavoz Bluetooth",
+        "Adresse MAC": "Dirección MAC",
+        "Nom du Service": "Nombre del servicio",
+        "Test": "Prueba",
+        "Status": "Estado",
+        "Logs": "Registros",
+        "Tester": "Probar",
+        "Nom": "Nombre",
+        "Sous-Type": "Sub-tipo",
+        "Service Status": "Estado del servicio",
+        "Bluetooth Scan": "Escaneo Bluetooth",
+        "Bluetooth Appairage": "Emparejamiento Bluetooth"
+    },
+    "plugins\/pulseaudio\/desktop\/js\/pulseaudio.js": {
+        "Nom": "Nombre",
+        "Afficher": "Mostrar",
+        "Historiser": "Guardar historial",
+        "Tester": "Probar"
+    },
+    "plugins\/pulseaudio\/core\/ajax\/pulseaudio.ajax.php": {
+        "401 - Accès non autorisé": "401 - Acceso no autorizado",
+        "Aucune methode correspondante à : ": "Ningún método correspondiente a:"
+    },
+    "plugins\/pulseaudio\/core\/class\/pulseaudio.class.php": {
+        "Le champs Adresse ne peut être vide": "El campo de dirección no puede estar vacío",
+        "L\\'adresse MAC doit être de la forme XX:XX:XX:XX:XX:XX": "La dirección MAC debe tener la forma XX: XX: XX: XX: XX: XX",
+        "Le champs Nom ne peut être vide": "El campo de nombre no puede estar vacío",
+        "Le champs Nom ne peut contenir de caractères spéciaux": "El campo de nombre no puede contener caracteres especiales",
+        "Le champs Nom ne peut contenir d\\'espaces": "El campo de nombre no puede contener espacios"
+    },
+    "info.json": {
+        "Auteur du plugin : Slobberbone.<br\/>ATTENTION, il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat.": "Autor del complemento: Slobberbone. <br\/> ADVERTENCIA, este no es un complemento oficial de Jeedom, sino un complemento desarrollado por un tercero y cuya evolución ha sido abandonada. El equipo técnico de Jeedom proporcionará asistencia en este complemento sin ninguna obligación de resultado"
     }
 }

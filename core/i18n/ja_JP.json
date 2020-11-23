@@ -1,5 +1,110 @@
 {
-    "plugins\/pulseaudio\/plugin_info\/info.xml": {
-        "Plugin PulseAudio": "Plugin PulseAudio"
+    "plugins\/pulseaudio\/plugin_info\/configuration.php": {
+        "Configuration :": "",
+        "Accès à la configuration": "",
+        "Réparer :": "",
+        "Forcer l'arrêt de tous les services pulseaudio": "",
+        "Port clef bluetooth": "",
+        "Aucun": "何でもありません"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/soundtest.pulseaudio.php": {
+        "401 - Accès non autorisé": "401-不正アクセス",
+        "Arrêter le test": "",
+        "Pause": "休止",
+        "Rechercher": "検索"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/update.pulseaudio.php": {
+        "401 - Accès non autorisé": "401-不正アクセス",
+        "Pause": "休止",
+        "Rechercher": "検索"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/status.pulseaudio.php": {
+        "401 - Accès non autorisé": "401-不正アクセス",
+        "Pause": "休止",
+        "Rechercher": "検索"
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/pairbluetooth.pulseaudio.php": {
+        "401 - Accès non autorisé": "401-不正アクセス",
+        "Étape 1": "ステージ1",
+        "Étape 2": "ステージ2",
+        "Étape 3": "ステージ3",
+        "Étape 4": "ステップ4",
+        "Étape 5": "ステップ5",
+        "Activer le mode découverte de l'enceinte Bluetooth": "",
+        "Exemple JBL Flip 3": "",
+        "Suivant": "",
+        "Scanner les périphériques Bluetooth": "",
+        "Pause": "休止",
+        "Rechercher": "検索",
+        "Scan en cours": "",
+        "Adresse MAC": "MACアドレス",
+        "Appairer l'enceinte Bluetooth": "",
+        "Appairage en cours": "",
+        "Créer le service associé à cette enceinte Bluetooth": "",
+        "Nom du service": "",
+        "Finaliser la création de votre enceinte Bluetooth": "",
+        "Vous pouvez clore cette popup puis activer et enregistrer cette nouvelle enceinte Bluetooth.": "",
+        "JBL Flip 3": ""
+    },
+    "plugins\/pulseaudio\/desktop\/modal\/log.pulseaudio.php": {
+        "401 - Accès non autorisé": "401-不正アクセス",
+        "Pause": "休止",
+        "Rechercher": "検索"
+    },
+    "plugins\/pulseaudio\/desktop\/php\/pulseaudio.php": {
+        "401 - Accès non autorisé": "401-不正アクセス",
+        "Ajouter une enceinte Bluetooth": "",
+        "Rechercher": "検索",
+        "Gestion": "管理",
+        "Configuration": "コンフィギュレーション",
+        "Mes enceintes Bluetooth": "",
+        "Sauvegarder": "セーブ",
+        "Supprimer": "取り除きます",
+        "Configuration avancée": "高度な構成",
+        "Equipement": "設備",
+        "Commandes": "コマンド",
+        "Général": "コモン",
+        "Nom de l'enceinte Bluetooth": "",
+        "Objet parent": "親オブジェクト",
+        "Aucun": "何でもありません",
+        "Port clef bluetooth": "",
+        "Catégorie": "カテゴリ",
+        "Commentaire": "コメント",
+        "Activer": "アクティブ",
+        "Visible": "目に見えます",
+        "Paramètres": "設定",
+        "Assistant": "",
+        "Appairer l'enceinte Bluetooth": "",
+        "Adresse MAC": "MACアドレス",
+        "Nom du Service": "",
+        "Test": "テスト",
+        "Status": "ステータス",
+        "Logs": "ログ",
+        "Tester": "テスト",
+        "Nom": "表題",
+        "Sous-Type": "サブタイプ",
+        "Service Status": "",
+        "Bluetooth Scan": "",
+        "Bluetooth Appairage": ""
+    },
+    "plugins\/pulseaudio\/desktop\/js\/pulseaudio.js": {
+        "Nom": "表題",
+        "Afficher": "ディスプレイ",
+        "Historiser": "Historicize",
+        "Tester": "テスト"
+    },
+    "plugins\/pulseaudio\/core\/ajax\/pulseaudio.ajax.php": {
+        "401 - Accès non autorisé": "401-不正アクセス",
+        "Aucune methode correspondante à : ": "以下に対応するメソッドはありません："
+    },
+    "plugins\/pulseaudio\/core\/class\/pulseaudio.class.php": {
+        "Le champs Adresse ne peut être vide": "",
+        "L\\'adresse MAC doit être de la forme XX:XX:XX:XX:XX:XX": "",
+        "Le champs Nom ne peut être vide": "",
+        "Le champs Nom ne peut contenir de caractères spéciaux": "",
+        "Le champs Nom ne peut contenir d\\'espaces": ""
+    },
+    "info.json": {
+        "Auteur du plugin : Slobberbone.<br\/>ATTENTION, il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat.": ""
     }
 }

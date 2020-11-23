@@ -62,7 +62,7 @@ if (!isConnect('admin')) {
 					<div class="col-md-12">
 						<h3>{{Scanner les périphériques Bluetooth}}</h3>
 						<div id='div_scanbluetoothpulseaudioAlert' style="display: none;"></div>
-						<a class="btn btn-warning pull-right" data-state="1" id="bt_scanbluetoothpulseaudioStopStart"><i class="fa fa-pause"></i> {{Pause}}</a>
+						<a class="btn btn-warning pull-right" data-state="1" id="bt_scanbluetoothpulseaudioStopStart"><i class="fas fa-pause"></i> {{Pause}}</a>
 						<input class="form-control pull-right" id="in_scanbluetoothpulseaudioSearch" style="width : 300px;" placeholder="{{Rechercher}}" />
 						<br/><br/><br/>
 						<pre id='pre_scanbluetoothpulseaudio' style='overflow: auto; height: 90%;with:90%;'></pre>
@@ -84,7 +84,7 @@ if (!isConnect('admin')) {
 	        <div class="col-md-12">
 	          <h3>{{Appairer l'enceinte Bluetooth}}</h3>
 						<div id='div_pairbluetoothpulseaudioAlert' style="display: none;"></div>
-						<a class="btn btn-warning pull-right" data-state="1" id="bt_pairbluetoothpulseaudioStopStart"><i class="fa fa-pause"></i> {{Pause}}</a>
+						<a class="btn btn-warning pull-right" data-state="1" id="bt_pairbluetoothpulseaudioStopStart"><i class="fas fa-pause"></i> {{Pause}}</a>
 						<input class="form-control pull-right" id="in_pairbluetoothpulseaudioSearch" style="width : 300px;" placeholder="{{Rechercher}}" />
 						<br/><br/><br/>
 						<pre id='pre_pairbluetoothpulseaudio' style='overflow: auto; height: 90%;with:90%;'></pre>

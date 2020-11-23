@@ -19,7 +19,7 @@ if (!isConnect('admin')) {
 }
 ?>
 <div id='div_logpulseaudioAlert' style="display: none;"></div>
-<a class="btn btn-warning pull-right" data-state="1" id="bt_pulseaudioLogStopStart"><i class="fa fa-pause"></i> {{Pause}}</a>
+<a class="btn btn-warning pull-right" data-state="1" id="bt_pulseaudioLogStopStart"><i class="fas fa-pause"></i> {{Pause}}</a>
 <input class="form-control pull-right" id="in_pulseaudioLogSearch" style="width : 300px;" placeholder="{{Rechercher}}" />
 <br/><br/><br/>
 <pre id='pre_pulseaudiolog' style='overflow: auto; height: 90%;with:90%;'></pre>

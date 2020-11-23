@@ -19,8 +19,8 @@ if (!isConnect('admin')) {
 }
 ?>
 <div id='div_soundtestpulseaudioAlert' style="display: none;"></div>
-<a class="btn btn-stop pull-right"  id="bt_stopsoundTest"><i class="fa fa-stop"></i> {{Arrêter le test}}</a>
-<a class="btn btn-warning pull-right" data-state="1" id="bt_pulseaudioSoundtestStopStart"><i class="fa fa-pause"></i> {{Pause}}</a>
+<a class="btn btn-stop pull-right"  id="bt_stopsoundTest"><i class="fas fa-stop"></i> {{Arrêter le test}}</a>
+<a class="btn btn-warning pull-right" data-state="1" id="bt_pulseaudioSoundtestStopStart"><i class="fas fa-pause"></i> {{Pause}}</a>
 <input class="form-control pull-right" id="in_pulseaudioSoundtestSearch" style="width : 300px;" placeholder="{{Rechercher}}" />
 <br/><br/><br/>
 <pre id='pre_pulseaudiosoundtest' style='overflow: auto; height: 90%;with:90%;'></pre>
