@@ -1,6 +1,6 @@
 {
     "plugins\/pulseaudio\/plugin_info\/configuration.php": {
-        "Configuration :": "Configuration :",
+        "Configuration": "Configuration",
         "Accès à la configuration": "Accès à la configuration",
         "Réparer :": "Réparer :",
         "Forcer l'arrêt de tous les services pulseaudio": "Forcer l'arrêt de tous les services pulseaudio",
@@ -53,23 +53,22 @@
     },
     "plugins\/pulseaudio\/desktop\/php\/pulseaudio.php": {
         "401 - Accès non autorisé": "401 - Accès non autorisé",
-        "Ajouter une enceinte Bluetooth": "Ajouter une enceinte Bluetooth",
-        "Rechercher": "Rechercher",
         "Gestion": "Gestion",
+        "Ajouter": "Ajouter",
         "Configuration": "Configuration",
         "Mes enceintes Bluetooth": "Mes enceintes Bluetooth",
+        "Rechercher": "Rechercher",
+        "Configuration avancée": "Configuration avancée",
         "Sauvegarder": "Sauvegarder",
         "Supprimer": "Supprimer",
-        "Configuration avancée": "Configuration avancée",
         "Equipement": "Equipement",
         "Commandes": "Commandes",
         "Général": "Général",
         "Nom de l'enceinte Bluetooth": "Nom de l'enceinte Bluetooth",
         "Objet parent": "Objet parent",
         "Aucun": "Aucun",
-        "Port clef bluetooth": "Port clef bluetooth",
         "Catégorie": "Catégorie",
-        "Commentaire": "Commentaire",
+        "Options": "Options",
         "Activer": "Activer",
         "Visible": "Visible",
         "Paramètres": "Paramètres",
@@ -77,12 +76,15 @@
         "Appairer l'enceinte Bluetooth": "Appairer l'enceinte Bluetooth",
         "Adresse MAC": "Adresse MAC",
         "Nom du Service": "Nom du Service",
-        "Test": "Test",
+        "Port clef bluetooth": "Port clef bluetooth",
+        "Informations": "Informations",
         "Status": "Status",
         "Logs": "Logs",
         "Tester": "Tester",
+        "Id": "Id",
         "Nom": "Nom",
-        "Sous-Type": "Sous-Type",
+        "Type": "Type",
+        "Action": "Action",
         "Service Status": "Service Status",
         "Bluetooth Scan": "Bluetooth Scan",
         "Bluetooth Appairage": "Bluetooth Appairage"
@@ -105,6 +107,6 @@
         "Le champs Nom ne peut contenir d\\'espaces": "Le champs Nom ne peut contenir d\\'espaces"
     },
     "info.json": {
-        "Auteur du plugin : Slobberbone.<br\/>ATTENTION, il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat.": "Auteur du plugin : Slobberbone.<br\/>ATTENTION, il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat."
+        "Auteur du plugin : Slobberbone.<br\/>ATTENTION, il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat. Ce plugin permet la gestion du service PulseAudio. Ce service gère tout ce qui concerne les entrées sorties sons et micro, que les sorties soient filaires, via bluetooth ou encore sur le réseau. Ce plugin rend visible le service PulseAudio sur votre réseau interne, il vous est alors possible de le contrôler depuis un PC sous GNU\/Linux et de faire en sorte que la musique lue sur votre PC soit envoyée sur la sortie son de Jeedom. Ce plugin permet également l'ajout des enceintes Bluetooth au service PulseAudio de Jeedom et le propose comme une sortie standard. Ainsi, via Jeedom et ce plugin PulseAudio vous pouvez exécuter Deezer sur votre PC sous GNU\/Linux (ou Windows avec le client PulseAudio compatible) et faire en sorte que le son soit envoyées aux enceintes bluetooth raccordées à Jeedom ainsi que sur la sortie son (HDMI\/Jack) de Jeedom pour compléter avec un ampli. Ce mode simultané arrivera prochainement avec la possibilité de mettre une latence, évitant le décalage entre les sorties son HDMI\/Jack\/Bluetooth, parfait pour le mode soirée à la fois sur la terrasse avec les enceintes Bluetooth et dans la salle avec l'ampli !": "Auteur du plugin : Slobberbone.<br\/>ATTENTION, il ne s’agit pas d’un plugin Officiel Jeedom mais d’un plugin développé par une tierce personne et dont l’évolution a été abandonnée. L’équipe technique Jeedom assurera l’assistance sur ce plugin sans obligation de résultat. Ce plugin permet la gestion du service PulseAudio. Ce service gère tout ce qui concerne les entrées sorties sons et micro, que les sorties soient filaires, via bluetooth ou encore sur le réseau. Ce plugin rend visible le service PulseAudio sur votre réseau interne, il vous est alors possible de le contrôler depuis un PC sous GNU\/Linux et de faire en sorte que la musique lue sur votre PC soit envoyée sur la sortie son de Jeedom. Ce plugin permet également l'ajout des enceintes Bluetooth au service PulseAudio de Jeedom et le propose comme une sortie standard. Ainsi, via Jeedom et ce plugin PulseAudio vous pouvez exécuter Deezer sur votre PC sous GNU\/Linux (ou Windows avec le client PulseAudio compatible) et faire en sorte que le son soit envoyées aux enceintes bluetooth raccordées à Jeedom ainsi que sur la sortie son (HDMI\/Jack) de Jeedom pour compléter avec un ampli. Ce mode simultané arrivera prochainement avec la possibilité de mettre une latence, évitant le décalage entre les sorties son HDMI\/Jack\/Bluetooth, parfait pour le mode soirée à la fois sur la terrasse avec les enceintes Bluetooth et dans la salle avec l'ampli !"
     }
 }
